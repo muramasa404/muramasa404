@@ -29,20 +29,20 @@
 ---
 ## 👋 Hello! I'm Changhun Jeong.  
 
-I'm currently learning essential skills to become a **data analyst.**  
+I'm currently learning essential skills to become a **Data Engineer.**  
 
-🎓 **Education**  (2019 - 2025)
-- B.A. in English Language & Literature
-- Double Major in Information Statistics  
+🎓 **Education**  (2019.03 - 2024.08)
+- B.A. in International Business
+- Double Major in Data Analytics
 
-🇩🇪 **Exchange Program**  (Winter 2022)  
-- Studied at Philipps-Universität Marburg 
+🇳🇿 **Studied in New Zealand**  (2014.01 - 2018.04)  
+- Graduated at Logan Park High School
   - ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 
 💡 **Project Experience**  
-- 📌 Recipe Recommendation System
+- 📌 AWS-FLASK-MIGRATION
   - ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-- 🏠 Real Estate Fraud Prediction & Visualization
+- 💿 DATA-MESH-ARCHITECTURE
   - ![Tableau](https://img.shields.io/badge/tableau-E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white)
-- 🌦️ Multi-class Weather Image Classification  
-- ...  Update Soon
+- 🌦️ CREDIT-DEFAULT-ML
+- 
