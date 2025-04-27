@@ -3,7 +3,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MoominHunter&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/muramasa404"
-  width="600"
+  width="1000"
   height="300"
 />
 </a>
