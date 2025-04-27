@@ -1,5 +1,4 @@
 <div align="center">
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MoominHunter&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/muramasa404"
@@ -7,7 +6,6 @@
   height="500"
 />
 </a>
-
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 
@@ -18,9 +16,9 @@
 ![Tableau](https://img.shields.io/badge/tableau-E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) ![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sb71250)](https://solved.ac/sb71250)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=snoopyjch)](https://solved.ac/snoopyjch)
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuramasa404&edge_flat=false&title=hits)
+(![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuramasa404&edge_flat=false&title=hits)
 
 
 </div>
